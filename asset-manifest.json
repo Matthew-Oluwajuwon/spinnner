@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spinner/static/css/main.5dcf6bd5.css",
+    "main.js": "/spinner/static/js/main.77b01045.js",
+    "index.html": "/spinner/index.html",
+    "main.5dcf6bd5.css.map": "/spinner/static/css/main.5dcf6bd5.css.map",
+    "main.77b01045.js.map": "/spinner/static/js/main.77b01045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dcf6bd5.css",
+    "static/js/main.77b01045.js"
+  ]
+}
